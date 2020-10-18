@@ -1,2 +1,2 @@
 # RaytracingIn
-Implementations of Peter Shirleys wonderful books
+Implementations of Peter Shirleys "Raytracing In One Weekend"
